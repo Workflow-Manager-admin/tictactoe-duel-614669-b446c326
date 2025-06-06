@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tictactoe-duel-614669-b446c326/tictactoe_duel"
+}
